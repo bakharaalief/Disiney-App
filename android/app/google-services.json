@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184444617292",
+    "firebase_url": "https://disiney-app.firebaseio.com",
+    "project_id": "disiney-app",
+    "storage_bucket": "disiney-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184444617292:android:0dc1ed5e5a3bf730dbaae9",
+        "android_client_info": {
+          "package_name": "com.example.disiney_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184444617292-pq967baqvmi5ftveun2dqi0cnrcskbmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSiTtbRmGmsRGuAqHa-syxu7Hay_5BKuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184444617292-pq967baqvmi5ftveun2dqi0cnrcskbmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
