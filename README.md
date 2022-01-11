@@ -1,17 +1,15 @@
-# disiney_app
+# Disiney App
 
-a movie app
+## What is this
+Disiney App is app to help you search movie. In this App you can see populer movie and tv show. than, you can see detail information movie like rating, year releash, and you can bookmark your favorite movie. 
 
-## Getting Started
+This App i build with flutter and with dart language. To bookmarked movie, i use firebase. 
 
-This project is a starting point for a Flutter application.
+## Preview 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./preview/preview-1.png" width="200" />
+<img src="./preview/preview-2.png" width="200" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# disiney_app" 
+<br>
+<img src="./preview/preview-3.gif" width="400"/>
+<img src="./preview/preview-4.gif" width="400"/>
